@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200704297756",
+    "firebase_url": "https://tiketku-fa9a6.firebaseio.com",
+    "project_id": "tiketku-fa9a6",
+    "storage_bucket": "tiketku-fa9a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200704297756:android:b5e0fde3b41b1fc77948d9",
+        "android_client_info": {
+          "package_name": "com.awee.tiketku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200704297756-sta341ha544ilkva88v09u4otb4ans7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awee.tiketku",
+            "certificate_hash": "7e4439d16bf9f30c98435e4d6612a0d8cf7e24d2"
+          }
+        },
+        {
+          "client_id": "200704297756-k25obnf2gfe7luplbkqpdu29ufk56j2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zBIUO6O4pMDJYqgE0GH11s7S1kkD61U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200704297756-k25obnf2gfe7luplbkqpdu29ufk56j2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
